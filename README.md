@@ -1,7 +1,4 @@
-# SketchANIMAR 2023
-Sketch-based 3D Animal Fine-Grained Retrieval
-
-=====================================================================================
+# Sketch-based 3D Animal Fine-Grained Retrieval (SketchANIMAR) 2023
 
 The SketchANIMAR 2023 was held as a track of SHREC in [Symposium on 3D Object Retrieval (3DOR) 2023](https://sites.google.com/view/3dor2023), France. 
 
