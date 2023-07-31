@@ -4,8 +4,6 @@ The SketchANIMAR 2023 was held as a track of SHREC in [Symposium on 3D Object Re
 
 Raw dataset is downloaded from [SketchANIMAR2023 Challenge website](https://aichallenge.hcmus.edu.vn/sketchanimar). 
 
-Source codes of participants are download from [Google Drive](https://drive.google.com/drive/folders/1QKoc21d5CdvBZyvj_Ovy0KMSwWl_1GQQ?usp=sharing)
-
 The submission website is [https://codalab.lisn.upsaclay.fr/competitions/11073](https://codalab.lisn.upsaclay.fr/competitions/11073).
 
 Citation
