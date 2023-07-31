@@ -1,0 +1,7 @@
+*.h5
+*.png
+*.jpg
+download
+unzip
+*.zip
+__pycache__

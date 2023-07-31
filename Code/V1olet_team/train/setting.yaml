@@ -1,0 +1,35 @@
+seed: 42
+CUDA_VISIBLE_DEVICES: '0'
+
+im_size: 384
+im_size_before_crop: 416 # ~ for not using this
+crop_prob: 0.5
+
+label_mode: 'cate'
+BATCH_SIZE: 1
+
+train_with_labels: True
+train_repeat: True
+train_shuffle: 8192
+train_augment: True
+
+valid_with_labels: True
+valid_repeat: False
+valid_shuffle: False
+valid_augment: False
+
+base_name: 'EfficientNetV2S'
+final_dropout: 0.2
+
+pretrain_path: ~
+
+label_smoothing: 0.01
+
+monitor: val_loss
+mode: min
+
+max_lr: 1.0e-3
+min_lr: 1.0e-5
+cycle_epoch: 20
+n_cycle: 3
+save_weights_only: False

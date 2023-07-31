@@ -1,0 +1,7 @@
+*.h5
+__pycache__
+download
+unzip
+clean_dataset
+*.zip
+*.csv

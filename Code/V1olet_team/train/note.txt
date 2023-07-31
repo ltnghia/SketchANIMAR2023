@@ -1,0 +1,3 @@
+n_labels: 196
+train_n_images: 32866
+valid_n_images: 30
